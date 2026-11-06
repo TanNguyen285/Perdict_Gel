@@ -1,0 +1,10 @@
+path: C:/Users/ThisPC/Desktop/testapp/ngon tay
+train: images/train
+val: images/val
+
+names:
+  0: man
+  1: cogel
+
+kpt_shape: [3, 3]
+flip_idx: [0, 1, 2]

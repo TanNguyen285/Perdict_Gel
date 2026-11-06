@@ -1,0 +1,13 @@
+{
+    "features": [
+        "angle_deg",
+        "direction",
+        "dAngle"
+    ],
+    "targets": [
+        "R_kohm",
+        "length_mm"
+    ],
+    "hidden_size": 64,
+    "history_length_for_cnn": 5
+}
